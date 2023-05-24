@@ -1,7 +1,5 @@
 import logging
 
-# https://stackoverflow.com/a/56944256/7301680
-
 
 class CustomFormatter(logging.Formatter):
 
