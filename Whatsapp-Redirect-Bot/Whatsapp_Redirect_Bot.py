@@ -15,7 +15,7 @@ from telegram.error import TelegramError
 
 from dotenv import load_dotenv
 
-from helpers import logger
+from helper import logger
 
 load_dotenv()  # take environment variables from .env.
 
